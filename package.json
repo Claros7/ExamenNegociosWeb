@@ -1,0 +1,29 @@
+{
+  "name": "examennegociosweb",
+  "version": "1.0.0",
+  "description": "Examen del primer parcial de negocios web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Claros7/ExamenNegociosWeb.git"
+  },
+  "keywords": [
+    "examen",
+    "primer",
+    "parcial",
+    "negocios",
+    "web"
+  ],
+  "author": "Cristian Claros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Claros7/ExamenNegociosWeb/issues"
+  },
+  "homepage": "https://github.com/Claros7/ExamenNegociosWeb#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
